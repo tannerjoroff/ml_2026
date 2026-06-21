@@ -13,4 +13,4 @@ Building up to a transformer trained from scratch. Work in progress through Augu
 Python · PyTorch · Hugging Face · Weights & Biases
 
 ## Status
-Week 1 — environment setup and tooling
+Week 1 — environment setup and tooling. Working on git basics
