@@ -1,1 +1,1 @@
-something something sometihng
+print('hellow world')
